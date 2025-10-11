@@ -1,3 +1,3 @@
-requirement 
-python 13
-pygame
+### requirement 
+- python 13
+- pygame
